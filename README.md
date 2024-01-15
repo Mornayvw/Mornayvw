@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**Mornayvw/Mornayvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>Hi, I'm Mornay! <h1/>
+                              
+<h2>👨‍💻 IT Professional:</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<h3> IT Projects/Certifications</h3>
+
+- <b>PowerShell</b>
+
+- <b>C# (.NET Desktop Applications)</b>
+
+- <b>Python</b>
+  - 
+💬 Ask me about ...
+
+<h2> 🤳 Connect with me:</h2
+
+[linkedin]: www.linkedin.com/in/mornay-van-wyk-700613297
+
+- 
 -->

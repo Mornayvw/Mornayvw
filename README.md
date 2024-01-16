@@ -1,5 +1,5 @@
 <h1>  <h1/>
-<p align="center"> <img src=https://www.dropbox.com/scl/fi/2rrbwne2a6vdwhzvpwq4g/Blue-Gold-Elegant-Minimalist-Digital-Marketer-LinkedIn-Banner-1.png?rlkey=a1yyug8ptmwvs31p9a1zgg3f7&dl=" /> </p>
+<p align="center"> <img src=https://www.dropbox.com/scl/fi/2rrbwne2a6vdwhzvpwq4g/Blue-Gold-Elegant-Minimalist-Digital-Marketer-LinkedIn-Banner-1.png?rlkey=a1yyug8ptmwvs31p9a1zgg3f7&dl=0" /> </p>
 
 <h1 align="center">Hi 👋, I'm Mornay van wyk</h1>
 <h3 align="center">A passionate IT Professional from South Africa,CPT</h3>

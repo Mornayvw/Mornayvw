@@ -2,12 +2,13 @@
                               
 <h2>👨‍💻 IT Professional:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... Aws architech associate
+- 
+- 🌱 I’m currently learning ... 
 
 <h3> IT Projects/Certifications</h3>
 
-- <b>PowerShell</b>
+- <b>Splunk</b>
 
 - <b>C# (.NET Desktop Applications)</b>
 

@@ -23,16 +23,24 @@
 
 - 🔭 I’m currently working on ... Aws architech associate
 - 
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... Cissp through isc2.org
 
 <h3> IT Projects/Certifications</h3>
 
-- <b>Splunk</b>
+- <b> Comptia A+ </b>
+- <b> Comptia N+ </b>
+- <b> Comptia Security+ </b>
 
-- <b>C# (.NET Desktop Applications)</b>
+-  <b> Google IT support</b>
+-  <b> Google Cybersecurity</b>
 
-- <b>Python</b>
+-  <b>Splunk</b>
+
+-  <b>C# (.NET Desktop Applications)</b>
+
+-  <b>Python</b>
   - 
 
-- 
+- Thank you for taking time to view
+- will be adding video and Blogs references if you interested in Collabs please contact me im Open to new connections and innovations expanding and growing industry 
 -->

@@ -1,6 +1,8 @@
 <h1>  <h1/>
-<script src="https://tryhackme.com/badge/2411686"></script>
 <h1 align="center">Hi 👋, I'm Mornay van wyk</h1>
+  
+ <p> 
+  
 <h3 align="center">A passionate IT Professional from South Africa,CPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mornayvw&label=Profile%20views&color=0e75b6&style=flat" alt="mornayvw" /> </p>

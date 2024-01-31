@@ -1,7 +1,7 @@
 <h1>  <h1/>
 <h1 align="center">Hi 👋, I'm Mornay van wyk</h1>
   
- <p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/MornayCyberWhitehat.png" alt="TryHackMe"> 
+ <p align="center"> <img src="https://tryhackme-badges.s3.amazonaws.com/1117CyberWhitehat.png" alt="TryHackMe">
 <h3 align="center">A passionate IT Professional from South Africa,CPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mornayvw&label=Profile%20views&color=0e75b6&style=flat" alt="mornayvw" /> </p>

@@ -20,8 +20,6 @@
                               
 <h2>👨‍💻 IT Professional:</h2>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/1yXFuk2WzT36VrqU8">
-
 - 🔭 I’m currently working on ... Aws architech associate
 - 
 - 🌱 I’m currently learning ... Cissp through isc2.org

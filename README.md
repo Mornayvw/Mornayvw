@@ -1,4 +1,4 @@
-
+![giphy](https://github.com/Mornayvw/Mornayvw/assets/150259756/af1ecb4c-9b68-49df-a1b1-a5dfd99b829a)
 <h1>  <h1/>
 <h1 align="center">Hi 👋, I'm Mornay van wyk</h1>
   

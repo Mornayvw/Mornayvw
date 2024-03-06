@@ -12,6 +12,10 @@ Upon viewing the Source code of webpage the following can be Noted below Usernam
 
 ![Source](https://github.com/Mornayvw/Mornayvw/assets/150259756/8e5da2ed-356d-43cf-82e0-e0c22743bbd9)
 
+Following Nmap Port scan the following can be noted.
+
+![nMAP](https://github.com/Mornayvw/Mornayvw/assets/150259756/d6168eb2-1f97-4bb1-9727-6610094ffbee)
+
 What is the first ingredient that Rick needs?
 
 mr. meeseek hair

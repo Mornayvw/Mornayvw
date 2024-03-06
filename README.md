@@ -6,12 +6,16 @@ This Rick and Morty-themed challenge requires you to exploit a web server and fi
 
 Deploy the virtual machine on this task and explore the web application: MACHINE_IP 10.10.200.17
 
+![webpage](https://github.com/Mornayvw/Mornayvw/assets/150259756/5dabe443-c689-4628-9f20-41d1a01f5af9)
 
 What is the first ingredient that Rick needs?
+
 mr. meeseek hair
 
 What is the second ingredient in Rick’s potion?
+
 1 jerry tear
 
 What is the last and final ingredient?
+
 fleeb juice

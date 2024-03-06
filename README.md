@@ -16,6 +16,10 @@ Following Nmap Port scan the following can be noted.
 
 ![nMAP](https://github.com/Mornayvw/Mornayvw/assets/150259756/d6168eb2-1f97-4bb1-9727-6610094ffbee)
 
+Port 22 is open for possible ssh 
+username RickRul3s and Possible password located 
+next is to get public key id rsa
+
 What is the first ingredient that Rick needs?
 
 mr. meeseek hair

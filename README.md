@@ -41,5 +41,5 @@
   - 
 
 - Thank you for taking time to view
-- will be adding video and Blogs references if you interested in Collabs please contact me im Open to new connections and innovations expanding and growing industry 
+ Collabs please contact me im Open to new connections and innovations expanding and growing industry 
 -->

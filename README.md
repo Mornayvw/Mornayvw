@@ -50,6 +50,8 @@ Ctf Write ups
 ![nMAP](https://github.com/Mornayvw/Mornayvw/assets/150259756/d6168eb2-1f97-4bb1-9727-6610094ffbee)
 
 ![linux ctf forensic](https://github.com/Mornayvw/Mornayvw/assets/150259756/2881e4d0-a8b5-48e2-8a7f-cdf6b38238fa)
+
+![forensics2](https://github.com/Mornayvw/Mornayvw/assets/150259756/61ae3203-494f-402d-a3d0-15dc7d58eaf0)
 - Thank you for taking time to view
  Collabs please contact me im Open to new connections and innovations expanding and growing industry 
 -->

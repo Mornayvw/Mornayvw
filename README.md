@@ -47,6 +47,8 @@ Ctf Write ups
 
 ![Source](https://github.com/Mornayvw/Mornayvw/assets/150259756/8e5da2ed-356d-43cf-82e0-e0c22743bbd9)
 
+![nMAP](https://github.com/Mornayvw/Mornayvw/assets/150259756/d6168eb2-1f97-4bb1-9727-6610094ffbee)
+
 ![linux ctf forensic](https://github.com/Mornayvw/Mornayvw/assets/150259756/2881e4d0-a8b5-48e2-8a7f-cdf6b38238fa)
 - Thank you for taking time to view
  Collabs please contact me im Open to new connections and innovations expanding and growing industry 

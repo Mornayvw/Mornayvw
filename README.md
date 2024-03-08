@@ -40,6 +40,11 @@
 -  <b>Python</b>
   - 
 Ctf Write ups
+
+![Untitled](https://github.com/Mornayvw/Mornayvw/assets/150259756/926e795b-90cf-4563-ac3f-10a9c0c8e025)
+
+
+
 ![linux ctf forensic](https://github.com/Mornayvw/Mornayvw/assets/150259756/2881e4d0-a8b5-48e2-8a7f-cdf6b38238fa)
 - Thank you for taking time to view
  Collabs please contact me im Open to new connections and innovations expanding and growing industry 

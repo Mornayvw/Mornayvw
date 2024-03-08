@@ -39,6 +39,7 @@
 
 -  <b>Python</b>
   - 
+Ctf Write ups
 
 - Thank you for taking time to view
  Collabs please contact me im Open to new connections and innovations expanding and growing industry 

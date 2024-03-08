@@ -43,6 +43,8 @@ Ctf Write ups
 
 ![Untitled](https://github.com/Mornayvw/Mornayvw/assets/150259756/926e795b-90cf-4563-ac3f-10a9c0c8e025)
 
+![webpage](https://github.com/Mornayvw/Mornayvw/assets/150259756/5dabe443-c689-4628-9f20-41d1a01f5af9)
+
 
 
 ![linux ctf forensic](https://github.com/Mornayvw/Mornayvw/assets/150259756/2881e4d0-a8b5-48e2-8a7f-cdf6b38238fa)

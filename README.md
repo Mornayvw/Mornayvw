@@ -42,6 +42,9 @@
 Ctf Write ups
 
 ![boiler1](https://github.com/Mornayvw/Mornayvw/assets/150259756/19a1dfb1-2090-4f1e-bf89-24230019e908)
+
+![boiler2](https://github.com/Mornayvw/Mornayvw/assets/150259756/9f6c9d0e-8939-4180-aed6-c03e0a711c07)
+
 - Thank you for taking time to view
  Collabs please contact me im Open to new connections and innovations expanding and growing industry 
 -->

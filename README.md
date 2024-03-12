@@ -40,7 +40,7 @@
 -  <b>Python</b>
   - 
 Ctf Write ups
-
+![boiler1](https://github.com/Mornayvw/Mornayvw/assets/150259756/19a1dfb1-2090-4f1e-bf89-24230019e908)
 - Thank you for taking time to view
  Collabs please contact me im Open to new connections and innovations expanding and growing industry 
 -->

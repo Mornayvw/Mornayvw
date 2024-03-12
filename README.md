@@ -45,6 +45,35 @@ Ctf Write ups
 
 ![boiler2](https://github.com/Mornayvw/Mornayvw/assets/150259756/9f6c9d0e-8939-4180-aed6-c03e0a711c07)
 
+![boiler4](https://github.com/Mornayvw/Mornayvw/assets/150259756/238be312-2ab7-49b1-bf07-1920a21b1801)
+
+![boiler6](https://github.com/Mornayvw/Mornayvw/assets/150259756/a5970469-c563-4af2-8fa3-195c9260133b)
+
+![boiler7](https://github.com/Mornayvw/Mornayvw/assets/150259756/f5346074-0161-4868-8d15-27c4080b1333)
+
+![boiler8](https://github.com/Mornayvw/Mornayvw/assets/150259756/e5de9f8b-a44d-4f5d-802a-207c11202b3f)
+
+![boiler10](https://github.com/Mornayvw/Mornayvw/assets/150259756/6d90a017-3b52-4522-a264-2bfb456a8267)
+
+![boiler11](https://github.com/Mornayvw/Mornayvw/assets/150259756/228ac0d2-71fe-4c52-9613-c9d80ffb65ba)
+
+![boiler12](https://github.com/Mornayvw/Mornayvw/assets/150259756/ae094537-a8ba-4a98-ba42-1f72c24cb2f3)
+
+![boiler21](https://github.com/Mornayvw/Mornayvw/assets/150259756/3f945b6e-6e4c-4c22-bc0b-1d3c6e6138df)
+
+![boiler32](https://github.com/Mornayvw/Mornayvw/assets/150259756/52f56ee5-be8f-4b39-805f-af38deb014ae)
+
+![boiler45](https://github.com/Mornayvw/Mornayvw/assets/150259756/63457849-9e17-44bd-bebd-fe4becf133e6)
+
+![boiler46](https://github.com/Mornayvw/Mornayvw/assets/150259756/40dc8e30-fa07-499d-aa48-8ee854d97d33
+
+![boiler47](https://github.com/Mornayvw/Mornayvw/assets/150259756/19349099-6b48-47b5-b24a-6cc81e81da85)
+
+![boiler49](https://github.com/Mornayvw/Mornayvw/assets/150259756/38eed891-0509-4f55-b78d-9d2b5e9cce03)
+
+![boiler50](https://github.com/Mornayvw/Mornayvw/assets/150259756/3107fed0-815f-4100-ad14-5a90dc28575b)
+
+
 - Thank you for taking time to view
  Collabs please contact me im Open to new connections and innovations expanding and growing industry 
 -->

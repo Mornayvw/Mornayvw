@@ -49,7 +49,7 @@ Ctf Write ups
 
 ![boiler6](https://github.com/Mornayvw/Mornayvw/assets/150259756/a5970469-c563-4af2-8fa3-195c9260133b)
 
-![boiler7](https://github.com/Mornayvw/Mornayvw/assets/150259756/f5346074-0161-4868-8d15-27c4080b1333)
+
 
 ![boiler8](https://github.com/Mornayvw/Mornayvw/assets/150259756/e5de9f8b-a44d-4f5d-802a-207c11202b3f)
 
@@ -65,7 +65,7 @@ Ctf Write ups
 
 ![boiler45](https://github.com/Mornayvw/Mornayvw/assets/150259756/63457849-9e17-44bd-bebd-fe4becf133e6)
 
-![boiler46](https://github.com/Mornayvw/Mornayvw/assets/150259756/40dc8e30-fa07-499d-aa48-8ee854d97d33
+![boiler46](https://github.com/Mornayvw/Mornayvw/assets/150259756/40dc8e30-fa07-499d-aa48-8ee854d97d33)
 
 ![boiler47](https://github.com/Mornayvw/Mornayvw/assets/150259756/19349099-6b48-47b5-b24a-6cc81e81da85)
 

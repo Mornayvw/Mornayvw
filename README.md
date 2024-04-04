@@ -49,8 +49,6 @@
 
 ![2024-04-03 (8)](https://github.com/Mornayvw/Mornayvw/assets/150259756/ae26f785-461b-46d3-a385-67d8959191d7)
 
-![2024-04-03 (9)](https://github.com/Mornayvw/Mornayvw/assets/150259756/f4f1a7a2-1a1c-4dec-bb03-021ae2004463)
-
 ![2024-04-03 (12)](https://github.com/Mornayvw/Mornayvw/assets/150259756/055608b7-eed6-4ef5-9196-a8d9aedd8696)
 
 ![2024-04-03 (13)](https://github.com/Mornayvw/Mornayvw/assets/150259756/b9f4284c-d1af-4d3a-b2a9-447627e25158)

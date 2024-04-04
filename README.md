@@ -34,25 +34,41 @@
 -  <b> Google Cybersecurity</b>
   -SQL
    ![2024-04-03 (1)](https://github.com/Mornayvw/Mornayvw/assets/150259756/176d6b1f-0ca1-4f47-9564-58a715283f00)
+   
 ![2024-04-03 (2)](https://github.com/Mornayvw/Mornayvw/assets/150259756/4e785b3f-e87b-43be-8974-bedec1e753d1)
+
 ![2024-04-03 (3)](https://github.com/Mornayvw/Mornayvw/assets/150259756/ff908b55-91ff-41a3-9c2b-9f00a6eeba57)
+
 ![2024-04-03 (4)](https://github.com/Mornayvw/Mornayvw/assets/150259756/ef30ac9f-2501-42f4-91ce-5481d680b4f5)
+
 ![2024-04-03 (5)](https://github.com/Mornayvw/Mornayvw/assets/150259756/f8d9eedc-9e55-4075-9366-9c611ad3f294)
+
 ![2024-04-03 (6)](https://github.com/Mornayvw/Mornayvw/assets/150259756/62ea35e6-af8a-4120-8391-48c696620925)
+
 ![2024-04-03 (7)](https://github.com/Mornayvw/Mornayvw/assets/150259756/b8a59090-9ae4-47ec-94a7-739712f58f95)
+
 ![2024-04-03 (8)](https://github.com/Mornayvw/Mornayvw/assets/150259756/ae26f785-461b-46d3-a385-67d8959191d7)
+
 ![2024-04-03 (9)](https://github.com/Mornayvw/Mornayvw/assets/150259756/f4f1a7a2-1a1c-4dec-bb03-021ae2004463)
-![2024-04-03 (10)](https://github.com/Mornayvw/Mornayvw/assets/150259756/317cd18f-e17c-4cc3-841d-fd5864a8205c)
-![2024-04-03 (11)](https://github.com/Mornayvw/Mornayvw/assets/150259756/7d35bf15-5907-458e-8460-cfbd16b912b8)
+
 ![2024-04-03 (12)](https://github.com/Mornayvw/Mornayvw/assets/150259756/055608b7-eed6-4ef5-9196-a8d9aedd8696)
+
 ![2024-04-03 (13)](https://github.com/Mornayvw/Mornayvw/assets/150259756/b9f4284c-d1af-4d3a-b2a9-447627e25158)
+
 ![2024-04-03 (14)](https://github.com/Mornayvw/Mornayvw/assets/150259756/1d992d05-94f6-4904-89b2-9fab7732f494)
+
 ![2024-04-03 (15)](https://github.com/Mornayvw/Mornayvw/assets/150259756/d4185a18-f6a2-4af5-bca8-744091692bf4)
+
 ![2024-04-03 (16)](https://github.com/Mornayvw/Mornayvw/assets/150259756/d96a3105-344c-4bbe-ad46-f24a087f1618)
+
 ![2024-04-03 (17)](https://github.com/Mornayvw/Mornayvw/assets/150259756/3ee50aa5-721d-45c0-bd4f-3b8baf428e33)
+
 ![2024-04-03 (18)](https://github.com/Mornayvw/Mornayvw/assets/150259756/d6e1deb2-a760-418c-95ec-965eb129340c)
+
 ![2024-04-03 (19)](https://github.com/Mornayvw/Mornayvw/assets/150259756/074cbc26-75b7-4889-b4a6-2e2d9abc92a0)
+
 ![2024-04-03](https://github.com/Mornayvw/Mornayvw/assets/150259756/e147c2f0-0b3a-452d-8c81-29a9d3ea8066)
+
 
 -  <b>Splunk</b>
 

@@ -32,7 +32,7 @@
 
 -  <b> Google IT support</b>
 -  <b> Google Cybersecurity</b>
-<a> TCPDUMP <a/>
+<b> TCPDUMP </b>
 ![2024-04-05 (17)](https://github.com/Mornayvw/Mornayvw/assets/150259756/bb8561eb-b2b3-4ad1-a59f-dc402c58a140)
 
 ![2024-04-05 (18)](https://github.com/Mornayvw/Mornayvw/assets/150259756/7e5bf11c-d8ff-4bd3-b264-7087166d76a6)
@@ -73,7 +73,7 @@
 
 ![2024-04-05](https://github.com/Mornayvw/Mornayvw/assets/150259756/46331c79-c2f6-4b8e-8eda-c46aae1b263f)
 
-<a> Analyze your first packet with Wireshark <a/>
+<b> Analyze your first packet with Wireshark </b>
 - ![2024-04-05 (1)](https://github.com/Mornayvw/Mornayvw/assets/150259756/2ae86ec0-ca0a-4562-bded-928c4719dbdc)
 - 
 ![2024-04-05 (2)](https://github.com/Mornayvw/Mornayvw/assets/150259756/5e00d020-5748-4cf1-bea9-a1538fd0aaac)
@@ -88,7 +88,7 @@
 
 ![2024-04-05](https://github.com/Mornayvw/Mornayvw/assets/150259756/2d077602-2c00-4d6b-9cc7-ebcc9cbf47db)
 
- <a> SQL <a/>
+ <b> SQL </b>
    ![2024-04-03 (1)](https://github.com/Mornayvw/Mornayvw/assets/150259756/176d6b1f-0ca1-4f47-9564-58a715283f00)
    
 ![2024-04-03 (2)](https://github.com/Mornayvw/Mornayvw/assets/150259756/4e785b3f-e87b-43be-8974-bedec1e753d1)
@@ -143,7 +143,7 @@
 
 ![2024-04-04](https://github.com/Mornayvw/Mornayvw/assets/150259756/8199efdb-6804-4f60-96da-fc0ffb8e3271)
 
-<a> Activity: Examine alerts, logs, and rules with Suricata <a/>
+<b> Activity: Examine alerts, logs, and rules with Suricata </b>
 
 -  <b>Splunk</b>
 

@@ -144,6 +144,35 @@
 ![2024-04-04](https://github.com/Mornayvw/Mornayvw/assets/150259756/8199efdb-6804-4f60-96da-fc0ffb8e3271)
 
 <b> Activity: Examine alerts, logs, and rules with Suricata </b>
+![2024-04-05 (17)](https://github.com/Mornayvw/Mornayvw/assets/150259756/a02593f0-a986-4b2f-aed1-2be345f37ecb)
+
+![2024-04-05 (18)](https://github.com/Mornayvw/Mornayvw/assets/150259756/add60dd3-930a-47f2-a9d2-97ea541ae0a0)
+
+![2024-04-05 (19)](https://github.com/Mornayvw/Mornayvw/assets/150259756/0f93047b-a040-49e9-9dab-51f224928112)
+
+![2024-04-05 (20)](https://github.com/Mornayvw/Mornayvw/assets/150259756/7a1fa939-7436-40dd-a144-2633a2e1b2d2)
+
+![2024-04-05 (21)](https://github.com/Mornayvw/Mornayvw/assets/150259756/fe3555f5-b178-4c4b-895d-2ff1f5852f6b)
+
+![2024-04-05 (22)](https://github.com/Mornayvw/Mornayvw/assets/150259756/fcb1723f-80fc-4487-bc81-8984080ee942)
+
+![2024-04-05 (23)](https://github.com/Mornayvw/Mornayvw/assets/150259756/5212af7c-2774-4585-a06a-2642738f27f8)
+
+![2024-04-05 (24)](https://github.com/Mornayvw/Mornayvw/assets/150259756/3bb0c6d9-d265-4957-8c83-6feb2a7d5854)
+
+![2024-04-05 (25)](https://github.com/Mornayvw/Mornayvw/assets/150259756/fc45e11d-e896-42eb-ac65-2ffbed821d2c)
+
+![2024-04-05 (26)](https://github.com/Mornayvw/Mornayvw/assets/150259756/3ab31ab2-5632-46b6-9d27-f09e220853da)
+
+![2024-04-05 (27)](https://github.com/Mornayvw/Mornayvw/assets/150259756/948b7ccc-9c19-42ee-b626-5b2cc2c78549)
+
+![2024-04-05 (28)](https://github.com/Mornayvw/Mornayvw/assets/150259756/974b5cf6-e427-4a1a-8bc8-9ba395bcfc08)
+
+![2024-04-05 (29)](https://github.com/Mornayvw/Mornayvw/assets/150259756/2ef59d44-ceb8-46fb-9b9e-f683d07c5709)
+
+![2024-04-05 (30)](https://github.com/Mornayvw/Mornayvw/assets/150259756/8a53a8df-a96c-4260-918d-158f1e4dbe4c)
+
+![2024-04-05 (31)](https://github.com/Mornayvw/Mornayvw/assets/150259756/82d68722-d9ab-40d7-910f-d10cd6aaa63e)
 
 -  <b>Splunk</b>
 

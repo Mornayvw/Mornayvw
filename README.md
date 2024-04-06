@@ -31,7 +31,12 @@
 - <b> Comptia Security+ </b>
 
 -  <b> Google IT support</b>
+ -   https://www.credly.com/badges/72554b14-8589-4f4a-8e69-0c118e0a19ea/linked_in_profile
+
 -  <b> Google Cybersecurity</b>
+ -   https://www.credly.com/badges/05561728-8f3c-41aa-81a1-8a7e7a986c72/linked_in_profile
+
+
 <b> TCPDUMP </b>
 ![2024-04-05 (17)](https://github.com/Mornayvw/Mornayvw/assets/150259756/bb8561eb-b2b3-4ad1-a59f-dc402c58a140)
 
@@ -73,6 +78,10 @@
 
 ![2024-04-05](https://github.com/Mornayvw/Mornayvw/assets/150259756/46331c79-c2f6-4b8e-8eda-c46aae1b263f)
 
+
+
+
+
 <b> Analyze your first packet with Wireshark </b>
 - ![2024-04-05 (1)](https://github.com/Mornayvw/Mornayvw/assets/150259756/2ae86ec0-ca0a-4562-bded-928c4719dbdc)
 - 
@@ -87,6 +96,10 @@
 ![2024-04-05 (6)](https://github.com/Mornayvw/Mornayvw/assets/150259756/fba9fd95-08db-4e1d-a4cd-853ef66f570e)
 
 ![2024-04-05](https://github.com/Mornayvw/Mornayvw/assets/150259756/2d077602-2c00-4d6b-9cc7-ebcc9cbf47db)
+
+
+
+
 
  <b> SQL </b>
    ![2024-04-03 (1)](https://github.com/Mornayvw/Mornayvw/assets/150259756/176d6b1f-0ca1-4f47-9564-58a715283f00)
@@ -143,6 +156,10 @@
 
 ![2024-04-04](https://github.com/Mornayvw/Mornayvw/assets/150259756/8199efdb-6804-4f60-96da-fc0ffb8e3271)
 
+
+
+
+
 <b> Activity: Examine alerts, logs, and rules with Suricata </b>
 ![2024-04-05 (17)](https://github.com/Mornayvw/Mornayvw/assets/150259756/a02593f0-a986-4b2f-aed1-2be345f37ecb)
 
@@ -174,6 +191,8 @@
 
 ![2024-04-05 (31)](https://github.com/Mornayvw/Mornayvw/assets/150259756/82d68722-d9ab-40d7-910f-d10cd6aaa63e)
 
+
+
 -  <b>Splunk</b>
 ![2024-04-06 (6)](https://github.com/Mornayvw/Mornayvw/assets/150259756/95846d5e-2c97-411b-a04a-d5b08197322e)
 
@@ -181,7 +200,6 @@
 
 ![2024-04-06 (8)](https://github.com/Mornayvw/Mornayvw/assets/150259756/ab8ba41f-2fea-469d-aa1d-ae5595e0a381)
 
-![2024-04-06 (9)](https://github.com/Mornayvw/Mornayvw/assets/150259756/e8f55093-a0e8-491b-b2ae-685a7f4ff5f1)
 -  <b>C# (.NET Desktop Applications)</b>
 
 -  <b>Python</b>

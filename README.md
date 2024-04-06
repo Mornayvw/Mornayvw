@@ -175,7 +175,13 @@
 ![2024-04-05 (31)](https://github.com/Mornayvw/Mornayvw/assets/150259756/82d68722-d9ab-40d7-910f-d10cd6aaa63e)
 
 -  <b>Splunk</b>
+![2024-04-06 (6)](https://github.com/Mornayvw/Mornayvw/assets/150259756/95846d5e-2c97-411b-a04a-d5b08197322e)
 
+![2024-04-06 (7)](https://github.com/Mornayvw/Mornayvw/assets/150259756/2db84d89-47e2-4a1e-afbf-7aac677af41b)
+
+![2024-04-06 (8)](https://github.com/Mornayvw/Mornayvw/assets/150259756/ab8ba41f-2fea-469d-aa1d-ae5595e0a381)
+
+![2024-04-06 (9)](https://github.com/Mornayvw/Mornayvw/assets/150259756/e8f55093-a0e8-491b-b2ae-685a7f4ff5f1)
 -  <b>C# (.NET Desktop Applications)</b>
 
 -  <b>Python</b>
